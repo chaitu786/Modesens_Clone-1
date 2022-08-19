@@ -6,21 +6,21 @@ Established in 2015, ModeSens is led by a team of industry experts who developed
 
 The result was an advanced platform that connects information to shoppers seamlessly for a secure and efficient experience — one that is wholly unique to our customers.
 
-Deploy Link: https://modesensclone.netlify.app
+Deploy Link: https://modesens-web16.herokuapp.com/
 
 # Some glimpse from our Website
 
 <h1>Home Page</h1>
-<img src="./Screenshots/HomePage.png" alt=""/>
+<img src="https://raw.githubusercontent.com/iamdebobrota/Modesens-clone/main/Screenshots/HomePage.png" alt=""/>
 
 <h1>Products Page</h1>
-<img src="./Screenshots/ProductsPage.png" alt=""/>
+<img src="https://raw.githubusercontent.com/iamdebobrota/Modesens-clone/main/Screenshots/ProductsPage.png" alt=""/>
 
 <h1>Single Product Page</h1>
-<img src="./Screenshots/SingleProductPage.png" alt=""/>
+<img src="https://raw.githubusercontent.com/iamdebobrota/Modesens-clone/main/Screenshots/SingleProductPage.png" alt=""/>
 
 <h1>Community Page</h1>
-<img src="./Screenshots/CommunityPage.png"/>
+<img src="https://raw.githubusercontent.com/iamdebobrota/Modesens-clone/main/Screenshots/CommunityPage.png"/>
 
 # [Getting Started]
 
@@ -58,6 +58,4 @@ Deploy Link: https://modesensclone.netlify.app
 
 
 
-
-Server link : https://modesensclonefw16.herokuapp.com/
 
