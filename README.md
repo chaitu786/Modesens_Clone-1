@@ -28,7 +28,7 @@ Deploy Link: https://modesens-web16.herokuapp.com/
 <p>If you want to run our project in your local machine</p>
 <p>Follow the given steps:</p>
 <ul>
-<li>Clone our repository <a href="https://github.com/Parth-Bisht/Modesens-Clone.git">https://github.com/Parth-Bisht/Modesens-Clone.git</a></li>
+<li>Clone our repository <a href="https://github.com/AnshumaanBaaghi/Modesens_Clone">https://github.com/AnshumaanBaaghi/Modesens_Clone</a></li>
 <li>Open our code in VS code</li>
 <li>Go to the client folder using cd client command</li>
 <li>In the terminal write npm install, it will install all the dependencies for our project</li>
@@ -50,10 +50,10 @@ Deploy Link: https://modesens-web16.herokuapp.com/
 <ul>
 
   <li><a href="https://github.com/chaitu786">@Chaithanya Reddy</a></li>
-  <li><a href="https://github.com/Parth-Bisht">@Himanshu</a></li>
-  <li><a href="https://github.com/muskan2507">@Anshuman</a></li>
-  <li><a href="https://github.com/Navedphysicist">@Surya</a></li>
-  <li><a href="https://github.com/Nandudumare">@Nirbhay</a></li>
+  <li><a href="https://github.com/AnshumaanBaaghi/">@Anshumaan</a></li>
+  <li><a href="https://github.com/Himanshu5296">@Himanshu</a></li>
+  <li><a href="https://github.com/Surya737673">@Surya</a></li>
+  <li><a href="https://github.com/NirbhayPratapSingh ">@Nirbhay</a></li>
 </ul>
 
 
