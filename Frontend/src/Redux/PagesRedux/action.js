@@ -16,7 +16,7 @@ export const getDataSuccess=(data)=>(
 
 export const getData=(payload,page_no)=>(dispatch)=>{
     axios({
-        url:"https://modesens-clone-web16.herokuapp.commodesens/beauty",
+        url:"https://personal-project-c7yf.onrender.com/beauty",
         method:"GET",
         params:{...payload}
     })
@@ -34,7 +34,7 @@ export const addtoCartsuccess=(data)=>(
 
 export const addToCart=(payload)=>(dispatch)=>{
     axios({
-        url:"https://modesens-clone-web16.herokuapp.commodesens/cart",
+        url:"https://personal-project-c7yf.onrender.com/cart",
         method:"POST",
         data:{
             ...payload
@@ -61,7 +61,7 @@ export const deleteData=(payload)=>(
 
 export const deleteCartData=(id)=>(dispatch)=>{
     axios({
-        url:`https://modesens-clone-web16.herokuapp.commodesens/cart/${id}`,
+        url:`https://personal-project-c7yf.onrender.com/cart/${id}`,
         method:"DELETE"
     }).then((res)=>{
         dispatch(deleteData(res.data))
