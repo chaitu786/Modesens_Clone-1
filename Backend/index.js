@@ -10,7 +10,7 @@ app.use(express.urlencoded({extended:true}))
 app.use(express.json())
 app.use(
     cors({
-        origin:["https://modesens-clone-web16.herokuapp.com"]
+        origin:["https://modesens-clone-web16.herokuapp.com","https://personal-project-c7yf.onrender.com"]
     })
 )
 app.use("/",modesensRouter)
